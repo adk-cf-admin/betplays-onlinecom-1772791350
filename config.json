@@ -1,0 +1,216 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#441E73",
+            "lang-select-color": "#222829",
+            "bg-light": "#441E73",
+            "welcome-bonus-bg": "#441E73",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#54248e",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#56EB7C",
+            "text-head": "#5D299C",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#fb333d",
+            "yellow": "#56EB7C",
+            "yellow-button": "#6d30b8",
+            "button-text": "#5D299C",
+            "main-button-text": "#56EB7C",
+            "border-color": "#efefdc",
+            "casino-cards": "#441E73",
+            "bonus-border-head": "#5D299C",
+            "bonus-border": "#ffffff",
+            "providers-back": "#441E73",
+            "faq-label": "#441E73",
+            "bg-footer": "#441E73",
+            "copyright": "#e7e7d5",
+            "starColor": "#17d26a",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3951"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3953",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "BetPlays Casino Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3954",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "BetPlays Casino"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-ca-en-CA",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "CA",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "BetPlays Casino",
+                    "title": "BetPlays Casino — Top Online Casino Canada | C$2,000 Bonus",
+                    "description": "Play at BetPlays Casino — Canada's top gaming platform with 5,000+ slots, 650+ live tables, Interac deposits & C$2,000 welcome bonus. Join today!\n",
+                    "canonical": "betplays-online.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3955",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "betplays-online.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3956"
+                },
+                "hero": {
+                    "title": "Canada's Premier Online Casino — BetPlays",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3957",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": -5,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3958",
+                    "mobileImageSizeModifier": 0,
+                    "mobileImageYModifier": 1,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "Looking for a trusted online casino in Canada? We operate under Curaçao eGaming license with SSL 256-bit encryption and certified RNG games. Here's why Canadian players choose BetPlays:\n",
+                    "items": [
+                        "Licensed by Curaçao eGaming (Creative Alliance N.V.) — safe & certified",
+                        "5,000+ games from Evolution, Pragmatic Play, Betsoft & Playson",
+                        "200% welcome bonus up to C$2,000 + 50 Free Spins, min. deposit C$20",
+                        "Interac, Visa, Mastercard, crypto & e-wallet deposits — instant & free",
+                        "650+ live dealer tables: roulette, blackjack, baccarat & game shows",
+                        "24\/7 customer support in English via live chat and email"
+                    ],
+                    "advantagesAfterText": "Join thousands of Canadian players enjoying certified fair-play gaming on a secure platform. Our dedicated English-speaking support team is available 24\/7 to assist you every step of the way.\n",
+                    "knowMore": "Know more",
+                    "appTitle": "BetPlays Casino App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3959",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "BetPlays Casino App",
+                    "mobileGooglePlayImageTitle": "BetPlays Casino App",
+                    "mobileIosImageTitle": "BetPlays Casino App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About BetPlays Casino",
+                        "description1": "We are a premier online casino serving Canadian players with over 5,000 licensed games. Operating under Curaçao eGaming certification, we deliver a secure and thrilling gaming experience tailored to Canada's market.\n",
+                        "items": [
+                            "Launched as a crypto-friendly online casino for Canadian players",
+                            "Expanded to 5,000+ games from 40+ certified providers",
+                            "Added 650+ live dealer tables via Evolution & Ezugi studios",
+                            "Achieved Curaçao eGaming license — safe play guaranteed"
+                        ],
+                        "description2": "We operate under Curaçao eGaming license (Creative Alliance N.V.) with SSL 256-bit encryption protecting all Canadian transactions. All games are RNG-certified ensuring fair and transparent outcomes for every player.\n",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3960",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "We continuously expand our game library and payment options for Canadian players. Responsible gaming tools including deposit limits and self-exclusion are always available. Join us and experience premium online casino entertainment in Canada!\n"
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Complete Game Portfolio for Canadian Players",
+                        "description": "<h2>Complete Game Portfolio for Canadian Players at BetPlays Casino<\/h2>\n\n<p>At BetPlays Casino, we proudly offer one of the most comprehensive gaming libraries available to Canadian players today. Our platform features over <strong>5,000 licensed titles<\/strong> spanning slots, table games, live dealer experiences, and virtual sports — all sourced from more than 40 certified software providers. Whether you are spinning the reels on a high-RTP slot, placing chips at a live blackjack table, or chasing a progressive jackpot, we guarantee a premium gambling experience built on certified fair play and cutting-edge technology. Canadian players can access our full portfolio from desktop or mobile, with seamless performance on iOS and Android devices without downloading any dedicated app.<\/p>\n\n<h3>Slots Collection — Thousands of Titles at Your Fingertips<\/h3>\n\n<p>Our slots library is the beating heart of BetPlays Casino, and it is designed to satisfy every type of Canadian spinner. We host over <strong>4,000 slot machines<\/strong> from industry-leading developers including Pragmatic Play, Betsoft Gaming, Playson, Boongo, Habanero, and BGaming. From classic 3-reel fruit machines to advanced video slots packed with bonus rounds, megaways mechanics, and cascading reels — our selection covers every style and budget. The average RTP across our slot portfolio exceeds <strong>96.89%<\/strong>, giving Canadian players competitive return rates on every spin. Whether you prefer low-volatility titles for steady wins or high-volatility slots for massive payouts, we have the ideal game waiting for you.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Pragmatic Play Slots:<\/strong> Gates of Olympus (RTP 96.5%), Sweet Bonanza (RTP 96.48%), The Dog House Megaways (RTP 96.55%), Big Bass Bonanza (RTP 96.71%), and Starlight Princess — all certified and available for Canadian real money play with bets from C$0.20.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Betsoft Gaming Titles:<\/strong> Premium 3D video slots including Stampede (RTP 97.05%), Take the Bank (RTP 97.31%), and After Night Falls — featuring cinematic graphics and interactive bonus features that set them apart in the Canadian market.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Boongo Exclusives:<\/strong> Coin UP: Hot Fire, Lady Fortune, Candy Boom, and Sun of Egypt 3 — these certified titles are directly featured in our free spins bonus offers, making them favourites among new Canadian players claiming their welcome package.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Progressive Jackpots:<\/strong> We offer access to progressive jackpot slots where prize pools accumulate across networks, with potential payouts reaching hundreds of thousands of Canadian dollars. These titles are certified by independent auditors for fair jackpot distribution.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Mobile Slots:<\/strong> Every slot in our portfolio is fully optimised for mobile play on iOS and Android. Canadian players enjoy the same HD graphics, bonus features, and payout rates on smartphones as on desktop — no compromise, no download required.<\/li>\n<\/ul>\n\n<h3>Live Dealer Casino — 650+ Tables Streaming in HD<\/h3>\n\n<p>Our live casino section is one of the most extensive available to Canadian players, featuring over <strong>650 live dealer tables<\/strong> streaming around the clock from professional studios worldwide. We partner with Evolution Gaming, Ezugi, Pragmatic Play Live, Asia Gaming, and Lucky Streak to deliver an authentic brick-and-mortar casino atmosphere directly to your screen. Every table streams in high definition with OCR (Optical Camera Recognition) technology that captures every card dealt, every spin of the roulette wheel, and every dice roll in real time. Canadian players can interact with professional dealers via live chat, creating a genuinely social and immersive wagering experience from any province.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Roulette:<\/strong> European Roulette (RTP 97.3%), American Roulette, French Roulette with La Partage rule, Lightning Roulette with multipliers up to 500x, and Speed Roulette for fast-paced Canadian players who prefer quick rounds. Betting limits from C$0.50 to C$10,000 per spin.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Blackjack:<\/strong> Classic Blackjack (RTP 99.5%), Infinite Blackjack with unlimited Canadian player seats, Lightning Blackjack featuring random cash prize multipliers, VIP Blackjack with high-roller limits up to C$10,000, and Blackjack Party for a social table experience.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Baccarat:<\/strong> Standard Baccarat (RTP 98.94%), Speed Baccarat for rapid 27-second rounds, Baccarat Squeeze for dramatic reveals, No Commission Baccarat, and Lightning Baccarat with multiplied payouts — all available to Canadian players 24\/7.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Poker & Game Shows:<\/strong> Three Card Poker, Caribbean Stud with progressive jackpot, Casino Hold'em (RTP 100.5%), Crazy Time with 20,000x max win, Monopoly Live, Mega Ball, Dream Catcher, and Deal or No Deal — bringing game show entertainment to Canadian online casino players.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Dice Games:<\/strong> Sic Bo, Craps, and exclusive dice game shows powered by Ezugi and Asia Gaming — offering Canadian players variety beyond traditional card and wheel games at stakes suitable for all bankroll sizes.<\/li>\n<\/ul>\n\n<h3>Table Games — Classic Casino Action for Canadian Players<\/h3>\n\n<p>Beyond our live casino, we offer an extensive collection of RNG-powered table games that allow Canadian players to sharpen their strategies at their own pace. Our table game portfolio includes multiple variants of blackjack, roulette, baccarat, poker, and craps — all certified by independent testing laboratories for random and fair outcomes. These virtual table games offer faster rounds, no waiting for seats, and betting limits starting from just C$0.10, making them ideal for Canadian players on any budget. Moreover, our table games are fully accessible on mobile devices, with touch-optimised interfaces designed for Ontario and all Canadian provincial players.<\/p>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px; font-family: sans-serif; color: #ffffff;\">\n  <thead>\n    <tr style=\"background-color: #7b439e;\">\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Game<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">RTP<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Min Bet<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #301b54;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Blackjack Classic<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">99.5%<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">C$0.10<\/td>\n    <\/tr>\n    <tr style=\"background-color: #22123d;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>European Roulette<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">97.3%<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">C$0.20<\/td>\n    <\/tr>\n    <tr style=\"background-color: #301b54;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Baccarat<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">98.94%<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">C$1.00<\/td>\n    <\/tr>\n    <tr style=\"background-color: #22123d;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Casino Hold'em<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">100.5%<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">C$1.00<\/td>\n    <\/tr>\n    <tr style=\"background-color: #301b54;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Video Poker<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">99.54%<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">C$0.25<\/td>\n    <\/tr>\n    <tr style=\"background-color: #22123d;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Craps<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">98.6%<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">C$1.00<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n\n<h3>Mobile Casino — Full Gaming Experience Across Canada<\/h3>\n\n<p>We understand that Canadian players demand flexibility, and our mobile platform delivers exactly that. Our gaming site is fully responsive and optimised for all modern smartphones and tablets — whether you use an iPhone, Samsung Galaxy, or any Android device. There is no app download required; simply open your browser and access all 5,000+ games, claim bonuses, make CAD deposits via Interac, and contact our support team directly from your mobile device. The mobile interface is touch-optimised with fast loading times even on standard Canadian mobile data connections, ensuring smooth gameplay whether you are in Toronto, Vancouver, Montreal, or anywhere across the country.<\/p>\n\n<h3>Responsible Gaming — Our Commitment to Canadian Players<\/h3>\n\n<p>At BetPlays Casino, we take responsible gambling seriously and provide Canadian players with a comprehensive set of tools to maintain control of their gaming activity. Our platform complies with international responsible gaming standards and we encourage all players to gamble within their means. We offer deposit limits, loss limits, session time reminders, and a complete self-exclusion program for players who need a break. Additionally, we provide links to Canadian gambling support organisations including the Problem Gambling Helpline and Responsible Gambling Council (RGC), recognising the importance of player wellbeing across all Canadian provinces including Ontario, British Columbia, Alberta, and Quebec. Our commitment to safe gaming is embedded in every aspect of our platform design.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Deposit Limits:<\/strong> Set daily, weekly, or monthly CAD deposit caps to manage your budget effectively. Limits take effect immediately and can be reduced at any time — increases require a 24-hour cooling-off period.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Session Time Limits:<\/strong> Receive automatic alerts when you reach your pre-set session duration. This feature helps Canadian players maintain awareness of their time spent gaming across all device types.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Self-Exclusion:<\/strong> Request a temporary or permanent account suspension through our support team. During exclusion periods, re-registration is blocked, ensuring complete protection for Canadian players who choose this option.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Reality Checks:<\/strong> Regular on-screen notifications display your session duration and net gaming activity, keeping Canadian players informed and in control throughout their gaming sessions.<\/li>\n<\/ul>\n"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Banking & Bonuses for Canadian Players",
+                        "description": "<h2>Banking Methods & Bonus Offers for Canadian Players at BetPlays Casino<\/h2>\n\n<p>At BetPlays Casino, we have built one of the most versatile and Canadian-friendly payment ecosystems in online gambling. We understand that Canadian players require fast, secure, and fee-free transactions in Canadian dollars, which is why we support a wide range of local and international payment methods. Whether you prefer the instant convenience of <strong>Interac<\/strong> — Canada's most trusted e-transfer network — or the privacy of cryptocurrency, we have you covered. All deposits are processed instantly with no hidden fees, and withdrawals are handled within 24–48 hours following successful KYC verification. Moreover, every deposit you make unlocks access to our industry-leading bonus programme, designed exclusively to reward Canadian players at every stage of their journey.<\/p>\n\n<h3>How Do I Deposit at BetPlays Casino as a Canadian Player?<\/h3>\n\n<p>Depositing at BetPlays Casino as a Canadian player takes less than two minutes. Simply log into your account, navigate to the Cashier section, select your preferred payment method, enter your CAD amount, and confirm the transaction. All deposits are processed instantly and credited to your casino balance in real time, so you can start playing your favourite slots or live dealer games without delay. We accept Canadian dollars (CAD) natively, which means there are no currency conversion fees — every dollar you deposit goes directly toward your gaming balance and bonus eligibility.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Interac:<\/strong> Canada's premier e-transfer solution, available for instant deposits from C$10 with zero transaction fees. Supported by all major Canadian banks including RBC, TD, Scotiabank, BMO, and CIBC — making it the most popular deposit method for Canadian online casino players.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Visa & Mastercard:<\/strong> Deposit instantly from C$20 using your Canadian-issued credit or debit card. Both Visa and Mastercard are accepted for deposits, with withdrawals also supported back to the original card within 1–5 business days.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Neosurf Prepaid Vouchers:<\/strong> Available at thousands of Canadian convenience stores and gas stations, Neosurf allows anonymous deposits from C$10 with no bank account required — perfect for privacy-conscious Canadian players.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Cryptocurrency:<\/strong> We are a crypto-friendly casino accepting Bitcoin (BTC), Ethereum (ETH), Litecoin (LTC), Dogecoin (DOGE), Ripple (XRP), and Tether (USDT). Crypto deposits are instant with zero network fees charged by BetPlays, and withdrawals process within hours rather than days.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>MiFinity & AstroPay:<\/strong> Popular e-wallet solutions supporting CAD transactions for Canadian players who prefer a digital wallet intermediary. Both methods offer instant processing and are accepted for both deposits and withdrawals.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Bank Wire Transfer:<\/strong> Available for high-volume Canadian players who prefer direct bank-to-bank transactions. Minimum deposit C$50; processing time 1–3 business days for deposits and 3–7 business days for withdrawals.<\/li>\n<\/ul>\n\n<h3>Payment Methods — Deposits & Withdrawal Overview<\/h3>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px; font-family: sans-serif; color: #ffffff;\">\n  <thead>\n    <tr style=\"background-color: #7b439e;\">\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Method<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Min (CAD)<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Speed<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #301b54;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Interac<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">C$10<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Instant<\/td>\n    <\/tr>\n    <tr style=\"background-color: #22123d;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Visa\/MC<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">C$20<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Instant<\/td>\n    <\/tr>\n    <tr style=\"background-color: #301b54;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Bitcoin<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">C$20<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Instant<\/td>\n    <\/tr>\n    <tr style=\"background-color: #22123d;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Neosurf<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">C$10<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Instant<\/td>\n    <\/tr>\n    <tr style=\"background-color: #301b54;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>MiFinity<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">C$20<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Instant<\/td>\n    <\/tr>\n    <tr style=\"background-color: #22123d;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Bank Wire<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">C$50<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">1–3 days<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n\n<h3>Welcome Bonus — 200% up to C$2,000 + 50 Free Spins<\/h3>\n\n<p>Our welcome bonus is one of the most generous offers available to Canadian online casino players today. When you make your first deposit of at least <strong>C$20<\/strong>, we match it by <strong>200%<\/strong> up to a maximum of <strong>C$2,000 in bonus funds<\/strong>, plus award you <strong>50 Free Spins<\/strong> on selected Boongo titles including Coin UP: Hot Fire, Lady Fortune, Candy Boom, and Sun of Egypt 3. No promo code is required — the bonus activates automatically upon qualifying deposit. The wagering requirement stands at <strong>35x the bonus amount<\/strong>, with all bonus funds and free spin winnings valid for <strong>14 days<\/strong> from the date of activation. This generous welcome package sets the stage for a thrilling start to your BetPlays Casino journey.<\/p>\n\n<h3>VIP Programme — Exclusive Rewards for Loyal Canadian Players<\/h3>\n\n<p>Our VIP loyalty programme rewards Canadian players who return to BetPlays Casino regularly with increasingly valuable perks at every tier. The programme includes three primary levels — <strong>Silver, Gold, and High Roller<\/strong> — each unlocking a more generous bonus package, higher free spin allocations, and enhanced cashback rates. Unlike many online casinos, our VIP tiers are accessible based on deposit thresholds rather than complex point systems, making it straightforward for Canadian players to understand and plan their progression through the programme.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Silver VIP (C$100+ deposit):<\/strong> Bonus money up to 280% with 40–44x wagering requirement, up to 370 free spins (10x wager), and cashback up to 40% on net losses — making it an attractive entry point for regular Canadian players.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Gold VIP (C$200+ deposit):<\/strong> Bonus money up to 320% with 42–46x wagering, up to 515 free spins, and cashback up to 55% — providing significantly enhanced value for committed Canadian players who increase their play frequency.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>High Roller VIP (C$500+ deposit):<\/strong> Our premium tier delivers up to 370% bonus money with 44–48x wagering, up to 750 free spins (10x wager), and an industry-leading cashback of up to 70% — designed for high-stakes Canadian players seeking maximum value per session.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Ongoing Reload Bonuses:<\/strong> Beyond the VIP tiers, we offer regular reload bonuses, weekend promotions, and tournament events with CAD prize pools for all Canadian players regardless of their VIP level — keeping every visit to BetPlays rewarding.<\/li>\n<\/ul>\n\n<h3>Withdrawal Process — How Fast Can Canadian Players Cash Out?<\/h3>\n\n<p>We process all withdrawal requests within <strong>24–48 hours<\/strong> following successful account verification. Canadian players must complete our one-time KYC (Know Your Customer) process by submitting a government-issued ID and proof of address before their first withdrawal — a standard procedure under our Curaçao eGaming licence that protects all players from fraudulent activity. Once verified, subsequent withdrawals are processed swiftly without repeated documentation requests. Crypto withdrawals are the fastest option, often completing within hours, while Interac and card withdrawals typically arrive within 1–3 business days. We do not charge any withdrawal fees on our end, and the maximum single withdrawal limit is <strong>C$2,000<\/strong> per transaction. Canadian players seeking higher limits should contact our 24\/7 English-language support team to discuss VIP withdrawal arrangements.<\/p>\n"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "Is BetPlays Casino licensed and safe for Canadian players?",
+                            "answer": "Yes, BetPlays Casino operates under a Curaçao eGaming licence (Creative Alliance N.V.), ensuring compliance with international gambling standards. We use SSL 256-bit encryption to protect all Canadian transactions and personal data. All games are RNG-certified for provably fair outcomes. Canadian players can gamble with full confidence on our secure platform.\n"
+                        },
+                        {
+                            "title": "How do I claim my welcome bonus at BetPlays Casino?",
+                            "answer": "Register your account, then deposit a minimum of C$20 via Interac, Visa, Mastercard, or any supported method. Your 200% bonus up to C$2,000 plus 50 Free Spins credits automatically — no promo code needed. Wagering requirement is 35x the bonus within 14 days. Contact our 24\/7 English support via live chat for any assistance.\n"
+                        },
+                        {
+                            "title": "What payment methods does BetPlays accept for Canadian players?",
+                            "answer": "We accept Interac (Canada's most popular e-transfer), Visa, Mastercard, Neosurf, MiFinity, AstroPay, Bitcoin, Ethereum, Litecoin, Dogecoin, XRP, USDT, and Bank Wire Transfer. All deposits start from C$10–C$20 and process instantly with no fees charged by BetPlays. CAD is natively supported with no currency conversion costs.\n"
+                        },
+                        {
+                            "title": "How long do withdrawals take at BetPlays Casino?",
+                            "answer": "Withdrawals at BetPlays typically process within 24–48 hours after your KYC verification is complete. Crypto withdrawals are fastest, often arriving in a few hours. Interac and card withdrawals take 1–3 business days. We charge no withdrawal fees, and the maximum per transaction is C$2,000. Verified Canadian accounts enjoy the smoothest cashout experience.\n"
+                        },
+                        {
+                            "title": "Can I play live dealer games on my mobile phone in Canada?",
+                            "answer": "Absolutely. All 650+ of our live dealer tables — including live roulette, blackjack, baccarat, poker, and game shows — are fully accessible on any iOS or Android mobile device. No app download is required; simply open your browser and play in HD quality. Our mobile live casino streams smoothly on standard Canadian LTE and WiFi connections.\n"
+                        },
+                        {
+                            "title": "What documents do I need for account verification at BetPlays?",
+                            "answer": "To verify your BetPlays Casino account, provide a government-issued photo ID (Canadian passport, driver's licence, or provincial ID card) and a proof of address document dated within 3 months (utility bill or bank statement). Verification is a one-time process completed within 24 hours, allowing all subsequent Canadian withdrawals to process without additional document requests.\n"
+                        },
+                        {
+                            "title": "Does BetPlays Casino offer a VIP programme for Canadian players?",
+                            "answer": "Yes. Our VIP programme has three tiers — Silver, Gold, and High Roller — unlocked by deposit thresholds of C$100, C$200, and C$500 respectively. Benefits include bonus money up to 370%, up to 750 free spins, and cashback up to 70% on net losses. Canadian VIP players also enjoy priority withdrawals and dedicated account management support.\n"
+                        },
+                        {
+                            "title": "Are there responsible gaming tools available for Canadian players?",
+                            "answer": "We fully support responsible gambling for all Canadian players. Tools available include deposit limits, loss limits, session time reminders, reality checks, and full self-exclusion. We also link to the Canadian Responsible Gambling Council (RGC) and Problem Gambling Helpline. All tools are accessible directly from your BetPlays account settings at any time.\n"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
